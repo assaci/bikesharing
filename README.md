@@ -22,11 +22,6 @@ Please see below the link to the charts:
 
 https://public.tableau.com/profile/assaci#!/vizhome/NYCCitiBike_16156135020480/NYCitiBikeTripAnalysis?publish=yes
 
-[https://public.tableau.com/profile/assaci#!/vizhome/NYCCitiBike_16156135020480/NYCitiBikeTripAnalysis?publish=yes]
-
-
-
-
 # Summary
 Based on our study, we can conclude bike sharing business is a very lucratif business and it's work investing in. 
 
