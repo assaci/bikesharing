@@ -20,7 +20,9 @@ We will use Pandas to change the "tripduration" column from an integer to a date
 
 Please see below the link to the charts:
 
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/profile/assaci#!/vizhome/NYCCitiBike_16156135020480/NYCitiBikeTripAnalysis?publish=yes")
+https://public.tableau.com/profile/assaci#!/vizhome/NYCCitiBike_16156135020480/NYCitiBikeTripAnalysis?publish=yes
+
+
 
 
 
